@@ -1,16 +1,18 @@
-### Hi there 👋
+# ¡Hola, soy José Luis! 👋
 
-<!--
-**joseluam97/joseluam97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido a mi rincón en GitHub. Soy un apasionado ingeniero de software que disfruta jugando con tecnologías y construyendo cosas geniales.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías que Amo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ReactJs
+- NodeJs
+- Python
+- Django
+- Angular
+- C++
+
+Exploro y experimento con estas tecnologías para crear soluciones innovadoras. Mi enfoque es mantenerme aprendiendo y evolucionando.
+
+¡Echa un vistazo a mis repositorios para ver cómo aplico estas tecnologías en diferentes contextos! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/joseluam/).
+
+¡Diviértete explorando el código y gracias por pasar por aquí! 🚀
