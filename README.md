@@ -13,6 +13,6 @@ Bienvenido a mi rincón en GitHub. Soy un apasionado ingeniero de software que d
 
 Exploro y experimento con estas tecnologías para crear soluciones innovadoras. Mi enfoque es mantenerme aprendiendo y evolucionando.
 
-¡Echa un vistazo a mis repositorios para ver cómo aplico estas tecnologías en diferentes contextos! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/joseluam/).
+¡Echa un vistazo a mis repositorios para ver cómo aplico estas tecnologías en diferentes contextos! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/jose-luis-astorga-morillo-b6663a1ab/).
 
 ¡Diviértete explorando el código y gracias por pasar por aquí! 🚀
